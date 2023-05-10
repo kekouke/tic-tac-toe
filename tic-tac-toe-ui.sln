@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tic-tac-toe-ui", "tic-tac-toe-ui\tic-tac-toe-ui.csproj", "{79F730C0-49B0-4BEB-8129-C0DBC7F2291B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F730C0-49B0-4BEB-8129-C0DBC7F2291B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F730C0-49B0-4BEB-8129-C0DBC7F2291B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F730C0-49B0-4BEB-8129-C0DBC7F2291B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F730C0-49B0-4BEB-8129-C0DBC7F2291B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {120DF689-74E9-4D5C-9AFF-E36821CCEE2B}
+	EndGlobalSection
+EndGlobal
